@@ -1,0 +1,12 @@
+#element_to_pop_up { 
+    background-color:#fff;
+    border-radius:15px;
+    color:#000;
+    display:none; 
+    padding:15px;
+	width:100%;
+    max-width:800px;
+    max-height: 700px;
+}
+.visual { width:100%; margin:0 auto; text-align:center; }
+.visual img { max-width:100%; }
